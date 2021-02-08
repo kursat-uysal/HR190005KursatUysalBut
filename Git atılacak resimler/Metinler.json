@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Ali Koç",
+    "message": "Selam Ali takımda işler yolundamı?",
+    "Url": "https://github.com/kursat-uysal/HR190005KursatUysalBut/blob/main/Git%20at%C4%B1lacak%20resimler/aliko%C3%A7.jpg",
+    "date": "19:07 AM",
+    "msgInfo": "readed"
+  },
+  {
+    "name": "Aziz yıldırım",
+    "message": "Aziz Başkanlığı özlüyormusun yoksa?",
+    "Url": "https://github.com/kursat-uysal/HR190005KursatUysalBut/blob/main/Git%20at%C4%B1lacak%20resimler/aziz%20y%C4%B1ld%C4%B1r%C4%B1m.jpg",
+    "date": "15:22 PM",
+    "isMuted" : true,
+    "msgInfo": "received"
+  },
+  {
+    "name": "Alex de souza",
+    "message": "Bir Ses Klibi Gönderdi",
+    "Url": "https://github.com/kursat-uysal/HR190005KursatUysalBut/blob/main/Git%20at%C4%B1lacak%20resimler/alexdesouza.jpg",
+    "soundUrl": "merhaba.mp3",
+    "date": "13:15 PM"
+  }
+]
